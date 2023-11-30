@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-11-30T12:10:41 IST" name="Default suite" finished-at="2023-11-30T12:14:22 IST" duration-ms="221416">
+    <groups>
+    </groups>
+    <test started-at="2023-11-30T12:10:41 IST" name="Default test" finished-at="2023-11-30T12:14:22 IST" duration-ms="221416">
+      <class name="org.selenium.NewTest">
+        <test-method is-config="true" signature="launchBrowser1()[pri:0, instance:org.selenium.NewTest@2e005c4b]" started-at="2023-11-30T12:10:41 IST" name="launchBrowser1" finished-at="2023-11-30T12:11:29 IST" duration-ms="48453" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser1 -->
+        <test-method is-config="true" signature="StartDate()[pri:0, instance:org.selenium.NewTest@2e005c4b]" started-at="2023-11-30T12:11:30 IST" name="StartDate" finished-at="2023-11-30T12:11:30 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartDate -->
+        <test-method signature="Filpkart()[pri:0, instance:org.selenium.NewTest@2e005c4b]" started-at="2023-11-30T12:11:30 IST" name="Filpkart" finished-at="2023-11-30T12:12:51 IST" duration-ms="80895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Filpkart -->
+        <test-method is-config="true" signature="EndDate()[pri:0, instance:org.selenium.NewTest@2e005c4b]" started-at="2023-11-30T12:12:51 IST" name="EndDate" finished-at="2023-11-30T12:12:51 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndDate -->
+        <test-method is-config="true" signature="StartDate()[pri:0, instance:org.selenium.NewTest@2e005c4b]" started-at="2023-11-30T12:12:51 IST" name="StartDate" finished-at="2023-11-30T12:12:51 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StartDate -->
+        <test-method signature="faceBook()[pri:0, instance:org.selenium.NewTest@2e005c4b]" started-at="2023-11-30T12:12:51 IST" name="faceBook" finished-at="2023-11-30T12:14:02 IST" duration-ms="71146" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- faceBook -->
+        <test-method is-config="true" signature="EndDate()[pri:0, instance:org.selenium.NewTest@2e005c4b]" started-at="2023-11-30T12:14:02 IST" name="EndDate" finished-at="2023-11-30T12:14:02 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EndDate -->
+        <test-method is-config="true" signature="closeBrower()[pri:0, instance:org.selenium.NewTest@2e005c4b]" started-at="2023-11-30T12:14:02 IST" name="closeBrower" finished-at="2023-11-30T12:14:22 IST" duration-ms="20375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrower -->
+      </class> <!-- org.selenium.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
